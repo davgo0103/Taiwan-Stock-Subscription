@@ -1,7 +1,8 @@
 # Taiwan-Stock-Subscription
 台灣的股票申購 Discord WebHook 通知
 
-執行畫面:
+### 執行畫面:
+
 ![image](https://github.com/user-attachments/assets/f5d86e83-3743-4fae-aaed-a2acdf2cb26f)
 
 會使用訊息編輯的方式更新資訊
